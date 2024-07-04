@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/?size=100&id=yitjpEVKWowb&format=png&color=000000"
+    },
+    {
+        "name": "NLP",
+        "icon": "https://img.icons8.com/?size=100&id=gTN9eaZkKLFI&format=png&color=000000"
+    },
+    {
+        "name": "Kaggle",
+        "icon": "https://img.icons8.com/?size=100&id=a1NnB4bVOMX9&format=png&color=000000"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/?size=100&id=Gx5oU8RXXdta&format=png&color=000000"
+    },
+    {
+        "name": "CNN",
+        "icon": "https://img.icons8.com/?size=100&id=Tc3kCFjWVdkR&format=png&color=000000"
+    },
+    {
+        "name": "Algorithms",
+        "icon": "https://img.icons8.com/?size=100&id=B65oAAzoj5fA&format=png&color=000000"
+    },
+    {
+        "name": "Regression Models",
+        "icon": "https://img.icons8.com/?size=100&id=NXxGyulAtvWo&format=png&color=000000"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Neural Networks",
+        "icon": "https://img.icons8.com/?size=100&id=gTN9eaZkKLFI&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "DSA",
+        "icon": "https://img.icons8.com/?size=100&id=7MIH0YJYZpXD&format=png&color=000000"
+    },
+    {
+        "name": "Image Processing",
+        "icon": "https://img.icons8.com/?size=100&id=HUF4OMid2swN&format=png&color=000000"
+    },
+    {
+        "name": "Keras",
+        "icon": "https://img.icons8.com/?size=100&id=22998&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Scikit-Learn",
+        "icon": "https://img.icons8.com/?size=100&id=doJ32Ly3G4aB&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Marketing",
+        "icon": "https://img.icons8.com/?size=100&id=Yt084riMRP1m&format=png&color=000000"
+    },
+    {
+        "name": "UI/UX",
+        "icon": "https://img.icons8.com/?size=100&id=33435&format=png&color=000000"
+    },
+    {
+        "name": "Content Writing",
+        "icon": "https://img.icons8.com/?size=100&id=zWBRb5nSHCsS&format=png&color=000000"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=100&id=uhcBDl2aashO&format=png&color=000000"
+    },
+    {
+        "name": "Anaconda",
+        "icon": "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"
+    },
+    {
+        "name": "Google Colab",
+        "icon": "https://img.icons8.com/?size=100&id=17949&format=png&color=000000"
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    }    
+]
